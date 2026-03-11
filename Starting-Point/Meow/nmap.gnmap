@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Thu Mar  5 03:45:52 2026 as: /usr/lib/nmap/nmap --privileged -sC -sV -oA /home/kali/Desktop/CPTS-Obsidian/HTB-Machine-Practice/Starting-Point/Meow/nmap 10.129.35.232
+Host: 10.129.35.232 ()	Status: Up
+Host: 10.129.35.232 ()	Ports: 23/open/tcp//telnet//Linux telnetd/	Ignored State: closed (999)
+# Nmap done at Thu Mar  5 03:46:16 2026 -- 1 IP address (1 host up) scanned in 23.49 seconds
